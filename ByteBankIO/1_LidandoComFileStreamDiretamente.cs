@@ -3,7 +3,7 @@ using System.Text;
 
 partial class Program
 {
-    static void MaiLidandoComFileStramDiretamente()
+    static void LidandoComFileStreamDiretamente()
     {
         var enderecoDoArquivo = "contas.txt";
 
