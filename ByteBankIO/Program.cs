@@ -5,8 +5,7 @@ partial class Program
 {
     static void Main(string[] args)
     {
-        EscritaBinaria();
-        LeituraBinaria();
+        UsaStreamDeEntrada();
         Console.WriteLine("Aplicação finalizada...");
         Console.ReadLine();
     }
